@@ -1,11 +1,11 @@
-About r-exposition
-==================
+About r-exposition-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-exposition-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=ExPosition
 
 Package license: GPL-2
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-exposition-feedstock/blob/main/LICENSE.txt)
 
 Summary: A variety of descriptive multivariate analyses with the singular value decomposition, such as principal components analysis, correspondence analysis, and multidimensional scaling. See An ExPosition of the Singular Value Decomposition in R (Beaton et al 2014) <doi:10.1016/j.csda.2013.11.006>.
 
